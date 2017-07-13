@@ -1,0 +1,5 @@
+setup.py
+reverso.egg-info/PKG-INFO
+reverso.egg-info/SOURCES.txt
+reverso.egg-info/dependency_links.txt
+reverso.egg-info/top_level.txt
